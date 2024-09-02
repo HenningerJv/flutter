@@ -62,7 +62,7 @@ void main() {
 
 
 class ListaProduto extends StatelessWidget {
-  final List<String> produto = ['Produto 1', 'Produto 2', 'Produto 3'];
+  final List<String> produto = ['Furadeira', 'Controle de Televisão', 'DVD álbum Midnights'];
 
   @override
   Widget build(BuildContext context) {
